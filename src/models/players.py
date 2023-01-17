@@ -16,3 +16,6 @@ class Player():
         self.birthday = birthday
         
         return
+    
+    
+    
